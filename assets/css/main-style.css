@@ -1,0 +1,96 @@
+.form-element{
+    display: flex;
+    flex-direction: column;
+}
+label{
+    display: inline-block;
+    margin-bottom: 0.5rem;
+}
+.form-input{
+    display: block;
+    width: 100%;
+    height: calc(1.6em + 0.75rem + 2px);
+    padding: 0.375rem 0.75rem;
+    font-size: 0.9rem;
+    font-weight: 400;
+    line-height: 1.6;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+.text-center{
+    text-align: center!important;
+}
+
+.table{
+    width: 100%;
+}
+.table-hover tr:hover {
+    background: #eee;
+}
+
+.dpc-power-calculation .button {
+    padding: 15px 20px;
+    font-size: 1.5rem;
+    border: none;
+}
+.dpc-power-calculation .button:hover{
+    box-shadow: 1px 1px 8px gray;
+}
+.dpc-power-calculation .button-success {
+    background-color: #04e722;
+    color: white;
+}
+.dpc-power-calculation .button-success-outline{
+    border:2px solid #01aa18;
+    background-color: white;
+    color:black
+}
+
+.dpc-power-calculation .button-success-outline:hover{
+    background-color: #01aa18;
+    color:white;
+}
+
+.dpc-power-calculation .button-success:hover{
+    background-color: #01aa18;
+}
+
+.dpc-power-calculation .button-block{
+    width: 100%;
+}
+.dpc-power-calculation .button-rounded{
+    border-radius: 25px;
+}
+
+.dpc-calculation-box{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.inverter-required{
+    padding: 2rem;
+    text-align: center;
+    min-width: 15em;
+    min-height: 15em;
+    width: fit-content;
+    height:fit-content;
+    background-color: #04e722;
+    box-shadow: 2px 2px 15px #aaa;
+}
+
+.battery-required{
+    padding: 2rem;
+    text-align: center;
+    min-width: 15em;
+    min-height: 15em;
+    width: fit-content;
+    height:fit-content;
+    background-color: #ce096c;
+    color:white;
+    box-shadow: 2px 2px 15px #aaa;
+}

@@ -1,0 +1,187 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Power Calculator\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-19 12:13+0000\n"
+"PO-Revision-Date: 2020-06-19 12:15+0000\n"
+"Last-Translator: Deep Khicher\n"
+"Language-Team: \n"
+"Language: hi_IN\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#: admin/OptionPage.php:157
+msgid "Power Calculator Settings"
+msgstr "पावर कैलकुलेटर सेटिंग्स"
+
+#: admin/OptionPage.php:137
+msgid "0-500 Watt Preset"
+msgstr "0-500 वाट प्रीसेट"
+
+#: admin/OptionPage.php:138
+msgid "501-1000 Watt Preset"
+msgstr "501-1000 वाट प्रीसेट"
+
+#: admin/OptionPage.php:139
+msgid "1001-1500 Watt Preset"
+msgstr "1001-1500  वाट प्रीसेट"
+
+#: admin/OptionPage.php:140
+msgid "1501-2000 Watt Preset"
+msgstr "1501-2000 वाट प्रीसेट"
+
+#: admin/OptionPage.php:141
+msgid "2001-2500 Watt Preset"
+msgstr "2001-2500 वाट प्रीसेट"
+
+#: admin/OptionPage.php:142
+msgid "2501-3000 Watt Preset"
+msgstr "2501-3000 वॉट प्रीसेट"
+
+#: admin/OptionPage.php:143
+msgid "3001-3500 Watt Preset"
+msgstr "3001-3500 वाट प्रीसेट"
+
+#: admin/OptionPage.php:144
+msgid "3501-4000 Watt Preset"
+msgstr "3501-4000 वाट प्रीसेट"
+
+#: admin/OptionPage.php:145
+msgid "4001-4500 Watt Preset"
+msgstr "4001-4500 वाट प्रीसेट"
+
+#: admin/OptionPage.php:146
+msgid "4501-5000 Watt Preset"
+msgstr "4501-5000 वाट प्रीसेट"
+
+#: admin/OptionPage.php:147
+msgid "5001-6000 Watt Preset"
+msgstr "5001-6000  वाट प्रीसेट"
+
+#: admin/OptionPage.php:148
+msgid "6001-8000 Watt Preset"
+msgstr "6001-8000  वाट प्रीसेट"
+
+#: admin/OptionPage.php:149
+msgid "8001-10000 Watt Preset"
+msgstr "8001-10000 वाट प्रीसेट"
+
+#: admin/OptionPage.php:150
+msgid "10001-12000 Watt Preset"
+msgstr "10001-12000 वाट प्रीसेट"
+
+#: admin/OptionPage.php:151
+msgid "12001-15000 Watt Preset"
+msgstr "12001-15000 वाट प्रीसेट"
+
+#: admin/OptionPage.php:152
+msgid "15001-20000 Watt Preset"
+msgstr "15001-20000 वाट प्रीसेट"
+
+#: admin/OptionPage.php:153
+msgid "20001-25000 Watt Preset"
+msgstr "20001-25000 वाट प्रीसेट"
+
+#: admin/OptionPage.php:154
+msgid "25001-30000 Watt Preset"
+msgstr "25001-30000 वाट प्रीसेट"
+
+#: admin/OptionPage.php:155
+msgid "30001-40000 Watt Preset"
+msgstr "30001-40000 वाट प्रीसेट"
+
+#: admin/OptionPage.php:157
+msgid "0-100 Battery Preset"
+msgstr "0-100 बैटरी प्रीसेट"
+
+#: admin/OptionPage.php:158
+msgid "101-150 Battery Preset"
+msgstr "101-150 बैटरी प्रीसेट"
+
+#: admin/OptionPage.php:159
+msgid "151-200 Battery Preset"
+msgstr "151-200 बैटरी प्रीसेट"
+
+#: admin/OptionPage.php:160
+msgid "201-300 Battery Preset"
+msgstr "201-300 बैटरी प्रीसेट"
+
+#: admin/OptionPage.php:161
+msgid "301-400 Battery Preset"
+msgstr "301-400 बैटरी प्रीसेट"
+
+#: admin/OptionPage.php:162
+msgid "401-500 Battery Preset"
+msgstr "401-500 बैटरी प्रीसेट"
+
+#: admin/OptionPage.php:163
+msgid "501-600 Battery Preset"
+msgstr "501-600 बैटरी प्रीसेट"
+
+#: admin/OptionPage.php:164
+msgid "601-700 Battery Preset"
+msgstr "601-700 बैटरी प्रीसेट"
+
+#: admin/OptionPage.php:165
+msgid "701-800 Battery Preset"
+msgstr "701-800 बैटरी प्रीसेट"
+
+#: admin/OptionPage.php:166
+msgid "801-900 Battery Preset"
+msgstr "801-900 बैटरी प्रीसेट"
+
+#: admin/OptionPage.php:167
+msgid "901-1000 Battery Preset"
+msgstr "901-1000 बैटरी प्रीसेट"
+
+#: admin/OptionPage.php:168
+msgid "1001-1200 Battery Preset"
+msgstr "1001-1200 बैटरी प्रीसेट"
+
+#: admin/OptionPage.php:169
+msgid "1201-1500 Battery Preset"
+msgstr "1201-1500 बैटरी प्रीसेट"
+
+#: admin/OptionPage.php:170
+msgid "1501-1800 Battery Preset"
+msgstr "1501-1800 बैटरी प्रीसेट"
+
+#: admin/OptionPage.php:171
+msgid "1801-2000 Battery Preset"
+msgstr "1801-2000 बैटरी प्रीसेट"
+
+#: admin/OptionPage.php:172
+msgid "2001-2500 Battery Preset"
+msgstr "2001-2500 वाट प्रीसेट"
+
+#: admin/OptionPage.php:173
+msgid "2501-3000 Battery Preset"
+msgstr "2501-3000 वॉट प्रीसेट"
+
+#: admin/OptionPage.php:174
+msgid "3001-3500 Battery Preset"
+msgstr "3001-3500 वाट प्रीसेट"
+
+#: admin/OptionPage.php:175
+msgid "3500-4000 Battery Preset"
+msgstr "3500-4000 बैटरी प्रीसेट"
+
+#. Name of the plugin
+msgid "Power Calculator"
+msgstr "पावर कैलकुलेटर"
+
+#. Description of the plugin
+msgid ""
+"Insert Power Calculator into your website and calculate power load, inverter "
+"size and solar panel size"
+msgstr ""
+"अपनी वेबसाइट में पावर कैलकुलेटर डालें और पावर लोड, इन्वर्टर आकार और सौर पैनल "
+"आकार की गणना करें"
+
+#. Author of the plugin
+msgid "Deep Khicher"
+msgstr "दीप खिचड"
